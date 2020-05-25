@@ -581,16 +581,16 @@ Te contagias de la COVID-19 y te recuperas. O llegas a la vacuna de la COVID-19.
 
 ...*¿durante cuanto tiempo?*
 
-* El pariente más cercano de la COVID-19 es el SARS, cuyos supervivientes tuvieron 2 años de inmunidad.[^SARS immunity]
-* Los conarovirus que causan el resfriado común te dan 8 meses de inmunidad.[^cold immunity]
+* El pariente más cercano de la COVID-19 es el SARS, cuyos supervivientes tuvieron 2 años de inmunidad.[^SARS_immunity]
+* Los conarovirus que causan el resfriado común te dan 8 meses de inmunidad.[^cold_immunity]
 * Hay informes de personas recuperadas de la COVID-19 que luego han vuelto a dar positivo pero no está claro si han dado falsos positivos.[^unclear]
 * Y un estudio *aún no revisado por pares* con monos muestran inmunidad al coronavirus de la COVID-19 durante al menos 28 días.[^monkeys]
 
 Pero para la COVID-19 *en humanos*, a día 1 de mayo de 2020, la gran incógnita es «hasta cuándo».
 
-[^SARS immunity]: «SARS-specific antibodies were maintained for an average of 2 years [...] Thus, SARS patients might be susceptible to reinfection ≥3 years after initial exposure». [Wu LP, Wang NC, Chang YH, et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2851497/) «Por desgracia», nunca sabremos cuánto dura la inmunidad al SARS, puesto que se erradicó rápidamente.
+[^SARS_immunity]: «SARS-specific antibodies were maintained for an average of 2 years [...] Thus, SARS patients might be susceptible to reinfection ≥3 years after initial exposure». [Wu LP, Wang NC, Chang YH, et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2851497/) «Por desgracia», nunca sabremos cuánto dura la inmunidad al SARS, puesto que se erradicó rápidamente.
 
-[^cold immunity]: «We found no significant difference between the probability of testing positive at least once and the probability of a recurrence for the beta-coronaviruses HKU1 and OC43 at 34 weeks after enrollment/first infection». [Marta Galanti & Jeffrey Shaman (PDF)](http://www.columbia.edu/~jls106/galanti_shaman_ms_supp.pdf)
+[^cold_immunity]: «We found no significant difference between the probability of testing positive at least once and the probability of a recurrence for the beta-coronaviruses HKU1 and OC43 at 34 weeks after enrollment/first infection». [Marta Galanti & Jeffrey Shaman (PDF)](http://www.columbia.edu/~jls106/galanti_shaman_ms_supp.pdf)
 
 [^unclear]: «Once a person fights off a virus, viral particles tend to linger for some time. These cannot cause infections, but they can trigger a positive test». [de STAT News por Andrew Joseph](https://www.statnews.com/2020/04/20/everything-we-know-about-coronavirus-immunity-and-antibodies-and-plenty-we-still-dont/)
 
